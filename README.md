@@ -1,12 +1,12 @@
 Horizontal TableView
-
+Using the category implement horizontal style uitableView,pages,and infinite loop.
 =======================================
 
 
 just need 2 category method:
 
 
-  -(id)initWithFrame:(CGRect)frame direction:(NSString *)direction;//tableVie
+  -(id)initWithFrame:(CGRect)frame direction:(NSString *)direction;//tableView
   
   
 
